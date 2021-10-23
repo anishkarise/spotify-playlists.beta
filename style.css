@@ -1,0 +1,30 @@
+h1{
+    color:white;
+    position:relative;
+    margin-left: 70px;
+}
+div.header {
+    text-align: center;
+  }
+  div.item {
+    text-align: center;
+  }
+*{
+    background-color:black;
+    margin: 5px;;
+}
+
+.header{
+    background-color:black;   
+    margin: left 300px; 
+}
+.second{
+    position: absolute;
+    left: 300px;
+    top: 600px;
+}
+.third{
+    position: absolute;
+    left: 650px;
+    top: 600px;
+}
